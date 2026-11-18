@@ -1,7 +1,4 @@
 # Beyond Similarity: Complementary Retrieval for Efficient Multi-Hop Retrieval-Augmented Generation
-> :bell: Notes
-> Due to the limited file size allowed on Anonymous Github, we will open-source our model parameter, train and benchmark datasets after the review phrase.
-
 
 ## Table of Contents
 - [Beyond Similarity: Complementary Retrieval for Efficient Multi-Hop Retrieval-Augmented Generation](#beyond-similarity-complementary-retrieval-for-efficient-multi-hop-retrieval-augmented-generation)
